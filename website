@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bheem Singh – Doctoral Candidate</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; background: #f9f9f9; }
+    .banner { background: #00274d; color: white; padding: 60px 20px; text-align: center; }
+    .section { padding: 50px 20px; background: white; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    .footer { background: #222; color: white; padding: 20px; text-align: center; }
+    h2 { color: #00274d; border-bottom: 2px solid #ccc; padding-bottom: 10px; margin-bottom: 25px; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <h1>Bheem Singh</h1>
+    <p>Doctoral Candidate in Hypersonic Flow Physics & Plasma Simulation</p>
+  </div>
+
+  <div class="container">
+    <div class="section">
+      <h2>About</h2>
+      <p>Bheem Singh is a doctoral student in Aerospace Engineering specializing in hypersonic aerothermodynamics, non-equilibrium plasma flows, and advanced numerical methods. With a strong foundation in CFD and high-temperature gas dynamics, he contributes to multi-physics modeling and simulation of re-entry phenomena, high-speed propulsion systems, and data-driven flow decomposition.</p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <ul>
+        <li><strong>M.Tech (Aerospace Engineering)</strong> – DIAT, Pune (2022–2024)</li>
+        <li><strong>B.Tech (Aeronautical Engineering)</strong> – AKTU, Uttar Pradesh (2015–2019)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Research Interests</h2>
+      <ul>
+        <li>Hypersonic Flow Simulation & Re-entry Aerothermodynamics</li>
+        <li>Plasma Flow and Maxwell-Poisson Coupled Solvers</li>
+        <li>Two-Temperature Models & Chemical Non-Equilibrium</li>
+        <li>Reduced Order Modeling (POD, DMD, DMDSP)</li>
+        <li>Multiphysics Coupled Solvers in High-Speed Environments</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Grid Fin Optimization (DRDO Project)</strong> – Aerodynamic and thermal analysis of grid/cascade fins using ANSYS/Star CCM+ for advanced missiles.</li>
+        <li><strong>Hypersonic Nose Cone Flow Analysis</strong> – CFD simulation of various nose cone shapes to improve drag and thermal efficiency.</li>
+        <li><strong>Ramjet Engine Simulation</strong> – Internal flow analysis for ramjet configurations under supersonic regimes.</li>
+        <li><strong>Toroidal vs Conventional Propeller Analysis</strong> – Evaluated flow dynamics and performance gains using CFD tools.</li>
+        <li><strong>DMDSP on Hypersonic Jet LES Data</strong> – Applied sparse dynamic mode decomposition to identify coherent structures in high-speed jets.</li>
+        <li><strong>Plasma Electromagnetic Solver</strong> – Coupled Maxwell-Poisson solver integrated with reacting gas models for plasma-aided flow control.</li>
+        <li><strong>Full Hypersonic Solver Framework</strong> – Modular codebase including chemical non-equilibrium, species transport, and GUI-driven post-processing.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Publications</h2>
+      <ul>
+        <li>“CFD Simulation of High AoA with Gap Variation in Cascade Fins”, ICAME 2023</li>
+        <li>“Numerical Study of Cascade Fins in Subsonic Regime at Multiple Mach”, STAAR 2024</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:singhbh943@gmail.com">singhbh943@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/bheem-singh-848666216" target="_blank">linkedin.com/in/bheem-singh-848666216</a></p>
+      <a href="Bheem_Singh_resume.pdf" class="btn btn-primary mt-2" download>Download Resume</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Bheem Singh | Doctoral Candidate in Aerospace Simulation
+  </div>
+</body>
+</html>
